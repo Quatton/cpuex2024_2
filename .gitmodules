@@ -1,0 +1,7 @@
+[submodule "assembler_simulator"]
+	path = assembler_simulator
+	url = https://github.com/quatton/qcpu
+
+[submodule "core"]
+	path = core
+	url = https://github.com/paanica/cpuex_core
