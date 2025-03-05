@@ -5,3 +5,6 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/paanica/cpuex_core
+[submodule "compiler"]
+	path = compiler
+	url = https://github.com/utokyo-compiler/group2_2024
