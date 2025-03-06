@@ -11,8 +11,17 @@
 
 ## プロジェクト構造
 
-- `assembler_simulator`: アセンブラとシミュレータのソースコード
-- `core`: コア・FPU・メモリのソースコード
-- `compiler`: コンパイラのソースコード
+確認済みになったらチェックを入れてください。全部終わったらもう一回
+
+```bash
+git submodule update --init --recursive
+```
+
+を実行してからこのレポジトリを cpuex2024-group[at]g.ecc.u-tokyo.ac.jp まで送ってください。
+
+- [] `assembler_simulator`: アセンブラとシミュレータのソースコード
+- [] `core`: コア・FPU・メモリのソースコード
+- [] `compiler`: コンパイラのソースコード
+- [] submodule を更新する
 
 詳細は各ディレクトリのREADME.mdを参照してください。
